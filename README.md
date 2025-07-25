@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="banda-pp.jpg" alt="Banda" width="50" height="50">  
 
-<!--
-**grubtech-banda/grubtech-banda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Banda
 
-Here are some ideas to get you started:
+Banda is a versatile Grubtech‑built bot that streamlines and supports a variety of operations across the Grubtech platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Usage
+
+1. Create an issue describing the feature or problem.
+2. Assign **@grubtech-banda**.
+3. Banda replies with a new Product Requirement Prompt (PRP) issue—ready for developers or GitHub Copilot.
+
+That’s it—review, refine, and ship.
+
+---
+© 2025 Grubtech FZ‑LLC · Internal use only
+
